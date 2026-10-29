@@ -1,0 +1,25 @@
+app_id,doc_type,flag,reason
+APP004,affidavit,name_mismatch,Name 'Karnik Institute of Technology' vs AICTE record 'Sami Institute of Technology' (similarity 0.90)
+APP004,affidavit,duplicate,Identical file also in APP026
+APP005,fire_noc,missing,fire_noc not submitted
+APP006,fire_noc,expired,Valid Until 2026-06-02 is before application date 2026-10-28
+APP007,affidavit,name_mismatch,Name 'Issac Institute of Engineering' vs AICTE record 'Issac Institute of Technology' (similarity 0.75)
+APP010,accreditation,name_mismatch,Name 'Mall Institute of Engineering' vs AICTE record 'Mall Institute of Technology' (similarity 0.74)
+APP011,fire_noc,expired,Valid Until 2026-03-16 is before application date 2026-10-28
+APP012,accreditation,missing,accreditation not submitted
+APP013,accreditation,expired,Valid Until 2026-10-17 is before application date 2026-10-28
+APP016,affidavit,intake_mismatch,Affidavit intake 120 vs AICTE approved intake 60
+APP017,affidavit,intake_mismatch,Affidavit intake 180 vs AICTE approved intake 120
+APP018,accreditation,missing,accreditation not submitted
+APP020,accreditation,expired,Valid Until 2026-08-18 is before application date 2026-10-28
+APP021,accreditation,expired,Valid Until 2026-06-28 is before application date 2026-10-28
+APP022,affidavit,name_mismatch,Name 'Bora Institute of Engineering' vs AICTE record 'Bora Institute of Technology' (similarity 0.74)
+APP023,accreditation,name_mismatch,Name 'Choudhury Institute of Technology' vs AICTE record 'Konda Institute of Technology' (similarity 0.84)
+APP023,accreditation,duplicate,Identical file also in APP040
+APP024,fire_noc,name_mismatch,Name 'Raghavan Institute of Engineering' vs AICTE record 'Raghavan Institute of Technology' (similarity 0.77)
+APP026,affidavit,duplicate,Identical file also in APP004
+APP027,affidavit,metadata_edited,PDF created with 'Adobe Photoshop 25.0'
+APP028,affidavit,intake_mismatch,Affidavit intake 120 vs AICTE approved intake 60
+APP031,accreditation,metadata_edited,PDF created with 'Adobe Photoshop 25.0'
+APP032,affidavit,missing,affidavit not submitted
+APP040,accreditation,duplicate,Identical file also in APP023
