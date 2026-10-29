@@ -1,0 +1,41 @@
+app_id,institution_id,institution_name,city,programme,approved_intake
+APP001,1-7022674,Choudhury Institute of Technology,Panipat,B.Tech Computer Science,180
+APP002,1-9996414,Konda Institute of Technology,Kolhapur,B.Tech Computer Science,60
+APP003,1-7067228,Chaudry Institute of Technology,Gudivada,B.Tech Computer Science,120
+APP004,1-5855124,Sami Institute of Technology,Ludhiana,B.Tech Computer Science,60
+APP005,1-7120868,Chander Institute of Technology,Muzaffarpur,B.Tech Computer Science,120
+APP006,1-2197935,Tiwari Institute of Technology,Kishanganj,B.Tech Computer Science,120
+APP007,1-4684531,Issac Institute of Technology,Muzaffarnagar,B.Tech Computer Science,180
+APP008,1-2110460,Sen Institute of Technology,Chennai,B.Tech Computer Science,120
+APP009,1-8698256,Dutta Institute of Technology,Mau,B.Tech Computer Science,120
+APP010,1-5408072,Mall Institute of Technology,Thrissur,B.Tech Computer Science,240
+APP011,1-2525206,Nayar Institute of Technology,Tiruchirappalli,B.Tech Computer Science,60
+APP012,1-7402509,Rai Institute of Technology,Secunderabad,B.Tech Computer Science,240
+APP013,1-2921859,Padmanabhan Institute of Technology,Varanasi,B.Tech Computer Science,180
+APP014,1-5418934,Sharaf Institute of Technology,Burhanpur,B.Tech Computer Science,120
+APP015,1-9517169,Brar Institute of Technology,Tadipatri,B.Tech Computer Science,120
+APP016,1-9897858,Pathak Institute of Technology,Coimbatore,B.Tech Computer Science,60
+APP017,1-6159230,Bath Institute of Technology,Ramagundam,B.Tech Computer Science,120
+APP018,1-9153566,Buch Institute of Technology,Salem,B.Tech Computer Science,60
+APP019,1-8973915,Rai Institute of Technology,Malda,B.Tech Computer Science,120
+APP020,1-4374754,Patla Institute of Technology,Uluberia,B.Tech Computer Science,180
+APP021,1-4769795,Pant Institute of Technology,Shimoga,B.Tech Computer Science,60
+APP022,1-2191066,Bora Institute of Technology,Deoghar,B.Tech Computer Science,60
+APP023,1-4993055,Konda Institute of Technology,Surendranagar Dudhrej,B.Tech Computer Science,180
+APP024,1-8930103,Raghavan Institute of Technology,Proddatur,B.Tech Computer Science,120
+APP025,1-8231838,Kanda Institute of Technology,Pimpri-Chinchwad,B.Tech Computer Science,180
+APP026,1-2651177,Karnik Institute of Technology,Satna,B.Tech Computer Science,60
+APP027,1-4191175,Rattan Institute of Technology,Amritsar,B.Tech Computer Science,240
+APP028,1-8434500,Kakar Institute of Technology,Rajpur Sonarpur,B.Tech Computer Science,60
+APP029,1-4965789,Tata Institute of Technology,Berhampore,B.Tech Computer Science,120
+APP030,1-3762152,Dhar Institute of Technology,Kolhapur,B.Tech Computer Science,240
+APP031,1-5785687,Koshy Institute of Technology,Bhimavaram,B.Tech Computer Science,240
+APP032,1-4185957,Sangha Institute of Technology,Mirzapur,B.Tech Computer Science,180
+APP033,1-2022698,Kanda Institute of Technology,Danapur,B.Tech Computer Science,180
+APP034,1-9910817,Tak Institute of Technology,Nashik,B.Tech Computer Science,120
+APP035,1-2140194,Choudhary Institute of Technology,Kozhikode,B.Tech Computer Science,120
+APP036,1-1666754,Sami Institute of Technology,Kharagpur,B.Tech Computer Science,60
+APP037,1-4426900,Raj Institute of Technology,Dehri,B.Tech Computer Science,180
+APP038,1-6033115,Krishnamurthy Institute of Technology,Raipur,B.Tech Computer Science,240
+APP039,1-2677407,Yadav Institute of Technology,Mau,B.Tech Computer Science,60
+APP040,1-2154126,Choudhury Institute of Technology,Raebareli,B.Tech Computer Science,120
